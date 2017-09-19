@@ -1,4 +1,4 @@
-# DirectChat
+# DirectChat :globe_with_meridians:
 Chatting application build for android platform
 App communicates through wifi direct, which is fast and easy to connect.
 This app will help you to understand how to make a wifi direct app for android.
